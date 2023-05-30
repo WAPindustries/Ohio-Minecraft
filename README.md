@@ -2,7 +2,7 @@
 
 ### needs chrome w/o cors to run
 
-![alt_text] (https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
+![BUILD SCREENSHOT](https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
 
 I'm a creeper
 Minecraft's Grim Reaper

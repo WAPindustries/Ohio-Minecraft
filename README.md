@@ -1,7 +1,6 @@
 # Ohio-Minecraft
 
-### needs chrome w/o cors to run  
-### ignore the shitty design i did this in 2 days
+### needs chrome w/o cors to run
 
 I'm a creeper
 Minecraft's Grim Reaper

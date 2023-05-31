@@ -8,7 +8,7 @@ also laggy as fuck because babylonjs cant do back face culling for shit
 ```javascript
 
   // if you have a fucking nasa supercomputer consider changing the world dimensions
-  // had to set it at 30x30 because my computers a piece of shit
+  // had to set it at 40x40 because my computers a piece of shit
   
   // -- inside scripts/settings.js --
   const Settings = {
@@ -17,7 +17,7 @@ also laggy as fuck because babylonjs cant do back face culling for shit
 
     PovCollisionRadius: 1,
 
-    WorldLength: 30,  // change this shit
-    WorldBreadth: 30, // and this shit
+    WorldLength: 40,  // change this shit
+    WorldBreadth: 40, // and this shit
 
 ```

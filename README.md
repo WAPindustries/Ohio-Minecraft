@@ -1,9 +1,8 @@
 # Ohio-Minecraft
 
-[28/6/23]  
-Updates:  
-1. added frustum culling and world matrix freezing so the lags been reduced
-2. tweaked camera rotation settings
+28/6/23 updates:  
+- added frustum culling and world matrix freezing so the lags been reduced
+- tweaked camera rotation settings
   
 needs chrome without cors to run  
 ignore the shitty design i did this in 2 days

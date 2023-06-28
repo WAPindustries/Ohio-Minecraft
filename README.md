@@ -1,7 +1,7 @@
 # Ohio-Minecraft
 
 needs chrome without cors to run  
-also laggy as fuck because babylonjs cant do back face culling for shit
+no frustum culling so its laggy as fuck
 
 ![BUILD SCREENSHOT](https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
 

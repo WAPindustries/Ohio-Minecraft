@@ -1,6 +1,7 @@
 # Ohio-Minecraft
 
-needs chrome without cors to run  
+needs chrome without cors to run
+ignore the shitty design i did this in 2 days
 no frustum culling so its laggy as fuck  
 also has a few bugs
 

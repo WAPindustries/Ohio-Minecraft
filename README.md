@@ -1,13 +1,11 @@
 # Ohio-Minecraft
 
 28/6/23 updates:  
-- added frustum culling and world matrix freezing so the lags been reduced
-- tweaked camera rotation settings
-
+- frustum culling and world matrix freezing to combat lag
+- tweaked camera rotation settings and fixed block placing
+- fixed tree despawning bug
   
 needs chrome without cors to run  
-ignore the shitty design i did this in 2 days
-has a few bugs  
   
 ![BUILD SCREENSHOT](https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
 

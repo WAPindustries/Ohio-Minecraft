@@ -5,7 +5,7 @@
 needs chrome without cors to run  
 ignore the shitty design i did this in 2 days
 has a few bugs  
-
+  
 ![BUILD SCREENSHOT](https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
 
 ```javascript

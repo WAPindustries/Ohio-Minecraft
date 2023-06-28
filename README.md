@@ -1,9 +1,10 @@
 # Ohio-Minecraft
 
 needs chrome without cors to run  
-ignore the shitty design i did this in 2 days  
-no frustum culling so its laggy as fuck    
-also has a few bugs  
+ignore the shitty design i did this in 2 days
+has a few bugs  
+
+[28/6/23] i added frustum culling and world matrix freezing so the lags been reduced  
 
 ![BUILD SCREENSHOT](https://github.com/WAPindustries/Ohio-Minecraft/blob/main/creeper_rule_34.png?raw=true)
 

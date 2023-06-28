@@ -1,7 +1,7 @@
 # Ohio-Minecraft
 
-[28/6/23]
-Updates:
+[28/6/23]  
+Updates:  
 1. added frustum culling and world matrix freezing so the lags been reduced
 2. tweaked camera rotation settings
   
